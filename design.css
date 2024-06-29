@@ -1,0 +1,25 @@
+h4{
+  border: 5px solid blue;
+      padding: 30px;
+      margin: 0px;
+      height: 100px;
+      text-align: center;
+    }
+
+    #grid{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    h5{
+      border: 5px solid blue;
+          padding: 30px;
+          margin-top: 350px;
+          height: 100px;
+          text-align: center;
+        }
+
+    #grid2{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
